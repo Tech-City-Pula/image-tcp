@@ -1,6 +1,7 @@
 # Generate Images -tcp
 
 Open source project utilizing OpenAI API to generate images from user prompts made for tech city pula association.
+View live at: [https://image-tcp.vercel.app/](https://image-tcp.vercel.app/)
 
 # Run locally
 
