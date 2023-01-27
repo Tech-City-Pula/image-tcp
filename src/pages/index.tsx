@@ -4,7 +4,6 @@ import { imagesType } from '@/Types/Types';
 import axios from 'axios';
 import Head from 'next/head'
 import Image from 'next/image';
-import { off } from 'process';
 import React, { useEffect, useRef, useState } from 'react';
 
 export default function Home() {
