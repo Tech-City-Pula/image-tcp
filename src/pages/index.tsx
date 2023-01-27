@@ -83,7 +83,7 @@ export default function Home() {
         <button onClick={() => {
           generateImage();
           loadingWidget()
-        }} className="generateButton rounded-full px-[25px] py-[5px] bg-blue-400 font-bold uppercase text-xl">Generate</button>
+        }} className="generateButton rounded-full px-[25px] py-[5px] bg-blue-400 font-bold uppercase text-xl">Generate!</button>
         {loading && (
           <div className="lds-ellipsis"><div></div><div></div><div></div><div></div></div>)}
         <div className='flex justify-between flex-row flex-wrap gap-6'>
