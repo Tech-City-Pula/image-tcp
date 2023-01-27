@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+
+module.exports = {
   reactStrictMode: true,
+  images: {
+    domains: ['oaidalleapiprodscus.blob.core.windows.net']
+  },
 }
 
-module.exports = nextConfig
